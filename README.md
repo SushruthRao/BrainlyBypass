@@ -2,23 +2,23 @@
 
 Welcome to **Brainly Bypass**! 🚀
 
-This is a Tampermonkey script designed to help you bypass the ad-wall on [Brainly.in](https://brainly.in). With this script, you can access answers without the hassle of watching ads. Enjoy a smoother and faster experience on Brainly!
+This is a Violentmonkey script designed to help you bypass the ad-wall on [Brainly.in](https://brainly.in). With this script, you can access answers without the hassle of watching ads. Enjoy a smoother and faster experience on Brainly!
 
 ## Features
 
 - **Ad-Wall Bypass**: Skip the ads and access answers directly.
-- **User-Friendly**: Simple setup with Tampermonkey.
+- **User-Friendly**: Simple setup with Violentmonkey.
 - **Automatic Execution**: Works seamlessly in the background.
 
 ## Installation
 
-1. **Install Tampermonkey Extension**:
-   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-   - [Tampermonkey for Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089)
+1. **Install Violentmonkey Extension**:
+   - [Violentmonkey for Chrome](https://chrome.google.com/webstore/detail/violentmonkey/dfhijheggngnibiblgkcejddjnmjemnl)
+   - [Violentmonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+   - [Violentmonkey for Opera](https://addons.opera.com/en/extensions/details/violentmonkey/)
 
 2. **Add the Script**:
-   - Open Tampermonkey's dashboard.
+   - Open Violentmonkey's dashboard.
    - Click on the **+** icon to create a new script.
    - Copy and paste the code below into the script editor.
    - Save the script.

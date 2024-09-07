@@ -4,6 +4,8 @@ Welcome to **Brainly Bypass**! 🚀
 
 This is a Violentmonkey script designed to help you bypass the ad-wall on [Brainly.in](https://brainly.in). With this script, you can access answers without the hassle of watching ads. Enjoy a smoother and faster experience on Brainly!
 
+# Give the repo a star if this script helped you out ! <3
+
 ## Features
 
 - **Ad-Wall Bypass**: Skip the ads and access answers directly.

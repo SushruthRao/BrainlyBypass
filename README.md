@@ -9,8 +9,8 @@ This is a Violentmonkey script designed to help you bypass the ad-wall on [Brain
 - **Ad-Wall Bypass**: Skip the ads and access answers directly.
 - **User-Friendly**: Simple setup with Violentmonkey.
 - **Automatic Execution**: Works seamlessly in the background.
-![block]000806.jpg
-![bypass]000809.jpg
+![block](000806.jpg)
+![bypass](000809.jpg)
 
 ## Installation
 
